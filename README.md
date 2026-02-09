@@ -42,6 +42,28 @@ Serwer posiada 2 karty sieciowie, jedną w trybie pracy NAT, aby miał dostęp d
 <img width="396" height="449" alt="image" src="https://github.com/user-attachments/assets/39e46f89-580c-4df0-a036-7bf71f03ed07" />
 <img width="455" height="210" alt="image" src="https://github.com/user-attachments/assets/ce5944a4-6115-4054-841e-9820fa505c97" />
 
+5. Active Directory:
+- Instalacja
+- Tworzenie lasu i domeny
+- Jednostki organizacyjne, grupy, dodawanie użytkowników
+- Profil mobilny
+- Udostępnienie zasobu dyskowego
+
+
+<img width="749" height="454" alt="image" src="https://github.com/user-attachments/assets/1ce5dfbd-25c0-4487-ba52-4ce911d9399f" />
+
+<img width="432" height="170" alt="image" src="https://github.com/user-attachments/assets/4c9e384a-8a20-474d-ae66-df04d82b619d" />
+
+<img width="439" height="218" alt="image" src="https://github.com/user-attachments/assets/0cee9d28-f0bb-47a4-86b6-edcf893ee99a" />
+
+<img width="418" height="531" alt="image" src="https://github.com/user-attachments/assets/9f19d205-8b9a-4953-9042-39a5d84318bf" />
+
+
+
+
+
+
+
 
 
 
