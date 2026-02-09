@@ -58,7 +58,7 @@ Serwer posiada 2 karty sieciowie, jedną w trybie pracy NAT, aby miał dostęp d
 
 <img width="418" height="531" alt="image" src="https://github.com/user-attachments/assets/9f19d205-8b9a-4953-9042-39a5d84318bf" />
 
-5. Ponowna konfiguracja klienta:
+6. Ponowna konfiguracja klienta:
 - przyłączenie komputera do domeny
 - logowanie do systemu
 
@@ -70,7 +70,7 @@ Serwer posiada 2 karty sieciowie, jedną w trybie pracy NAT, aby miał dostęp d
 
 <img width="271" height="168" alt="image" src="https://github.com/user-attachments/assets/40efcdc9-9331-449b-8837-03bbe3d1a5bd" />
 
-6. Zasady grupy (Group Policy):
+7. Zasady grupy (Group Policy):
 - blokujemy pracownikom dostęp do wiersza poleceń oraz panelu sterowania
 
 <img width="898" height="601" alt="image" src="https://github.com/user-attachments/assets/6497d928-e363-4909-b0fd-e9e4f112b376" />
@@ -85,7 +85,7 @@ Klient po aktualizacji zasad:
 
 <img width="795" height="484" alt="image" src="https://github.com/user-attachments/assets/ee985172-237c-48c4-a97b-ffe0a4ab542b" />
 
-7. DHCP & Routing:
+8. DHCP & Routing:
 - instalacja usługi DHCP i routingu
 - tworzenie nowego zakresu
 - przydzielenie adresu ip klientowi
@@ -111,7 +111,7 @@ Klient uzyskał dostęp do internetu:
 
 <img width="246" height="126" alt="image" src="https://github.com/user-attachments/assets/4f2fa819-2a9d-44a2-b492-e8f1b711d4d3" />
 
-8. DNS:
+9. DNS:
 - stworzenie strefy wyszukiwania do przodu
 - stworzenie stefy wyszukiwania wstecznego
 - dodanie nowego hosta
@@ -129,6 +129,21 @@ Klient uzyskał dostęp do internetu:
 Klient:
 
 <img width="446" height="168" alt="image" src="https://github.com/user-attachments/assets/957fb496-8f6b-4d38-b528-d0caaddac5a8" />
+
+10. IIS:
+- utworzenie nowej witryny na serwerze
+- dodanie rekordu www w strefie
+- wyświetlenie witryny na kliencie
+
+<img width="773" height="592" alt="image" src="https://github.com/user-attachments/assets/bb858388-2b38-41a0-b38d-c39f0a71ac75" />
+
+<img width="751" height="530" alt="image" src="https://github.com/user-attachments/assets/9b1154d8-fc5c-40db-a604-2dba27f13942" />
+
+
+
+
+
+
 
 
 
