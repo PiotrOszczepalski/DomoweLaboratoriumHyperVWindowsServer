@@ -7,7 +7,7 @@ Projekt domowego laboratorium w celu nauki administracji systemami Windows. Utwo
 - przydzielenie zasobów procesora/pamięci
 - utworzenie wirtualnych kart sieciowych
 
-Serwer posiada 2 karty sieciowie, jedną w trybie pracy NAT, aby miał dostęp do internetu, druga karta pracuje w sieci wewnętrznej.
+Serwer posiada 2 karty sieciowie, jedną w trybie pracy NAT, aby miał dostęp do internetu, druga karta pracuje w sieci wewnętrznej. Klient posiada tylko jedną kartę sieciową w sieci wewnętrznej, jak na razie nie ma dostępu do internetu.
 
 <img width="235" height="369" alt="image" src="https://github.com/user-attachments/assets/0ebe51d9-fd30-4bca-8461-67fddce89264" />
 
